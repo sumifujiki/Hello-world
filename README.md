@@ -1,3 +1,3 @@
 # Hello-world
 tutorial
-cimitted by myself.
+comitted by myself.
